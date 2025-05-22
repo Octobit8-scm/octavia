@@ -1,0 +1,14 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/about/page": "app/about/page.js",
+  "/about/gallery/page": "app/about/gallery/page.js",
+  "/departments/page": "app/departments/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/departments/[slug]/page": "app/departments/[slug]/page.js",
+  "/page": "app/page.js",
+  "/doctors/[id]/page": "app/doctors/[id]/page.js",
+  "/services/pharmacy/page": "app/services/pharmacy/page.js",
+  "/doctors/page": "app/doctors/page.js",
+  "/services/emergency/page": "app/services/emergency/page.js",
+  "/services/diagnostics/page": "app/services/diagnostics/page.js"
+}
